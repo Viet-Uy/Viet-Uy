@@ -8,7 +8,7 @@ Hi, my name is Uy. I am a Computer Engineering student at NTNU
 - 📈 **[Gazillionair](https://github.com/Viet-Uy/Gazillionair)** — JavaFX stock market simulation game where the player builds a portfolio, reacts to weekly market changes, and tries to increase net worth over time. The game combines trading, portfolio management, weekly progression, transaction history, and market statistics in one graphical application.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,sql,git,maven,idea,vscode,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,maven,idea,vscode,apple,windows)](https://skillicons.dev)
 
 ## Background
 
